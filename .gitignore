@@ -1,0 +1,8 @@
+venv/
+.venv/
+.vsode
+data/
+node_modules/
+pdf/
+amazon-mcp-server/
+amazon-mcp/
